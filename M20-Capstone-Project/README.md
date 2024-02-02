@@ -4,7 +4,7 @@ Here are four more capstone project ideas for the Spring Boot framework:
 
 ### Library Management System
 
-> [!Info]
+> [!NOTE]
 > Develop a modern library management system that handles book reservations, borrowing, returning, fines, member accounts, and report generation. Optionally, integrate RFID technology for automatic checkouts and returns, or allow remote access to digital resources like eBooks and audio books.
 >
 > **Tech Stack**
@@ -28,7 +28,7 @@ Here are four more capstone project ideas for the Spring Boot framework:
 
 
 ### Real Estate Listing Portal
-> [!Info] 
+> [!NOTE] 
 > Create a real estate listing portal featuring property listings, agent profiles, neighborhood guides, mortgage calculators, and interactive maps. Users should be able to submit new listings, request appointments, and communicate directly with agents. To enhance usability, consider incorporating chatbots, virtual tours, and personalized recommendation algorithms.
 > 
 > **Tech Stack**
@@ -45,7 +45,7 @@ Here are four more capstone project ideas for the Spring Boot framework:
 
 
 ### Healthcare Information System
-> [!Info]
+> [!NOTE]
 > Implement a healthcare information exchange platform enabling medical professionals to share patient records securely while complying with privacy regulations. Focus on interoperability, scalability, and fault tolerance, ensuring seamless integration with diverse systems used by hospitals, clinics, laboratories, and pharmacies.
 >
 > **Tech Stack**
@@ -62,7 +62,7 @@ Here are four more capstone project ideas for the Spring Boot framework:
 
 
 ### Social Media Analytics Dashboard
-> [!Info]
+> [!NOTE]
 > Construct a social media analytics dashboard aggregating insights from popular platforms like Twitter, Facebook, LinkedIn, Instagram, and YouTube. Provide metrics related to engagement rates, follower growth, hashtag trends, sentiment analysis, competitor benchmarking, and influencer identification. Offer APIs for connecting custom sources and exporting results.
 >
 > **Tech Stack**
