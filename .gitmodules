@@ -1,6 +1,3 @@
-[submodule "swe_java"]
-	path = swe_java
-	url = git@github.com:pandohansamuel19/swe_java.git
 [submodule "healthnex"]
 	path = healthnex
 	url = git@github.com:smkdev-id/healthnex.git
