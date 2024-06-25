@@ -1,0 +1,10 @@
+SBM08 - Test Driven Development pada Java
+
+Objectiveness
+- Behavior Testing: Cucumber-JVM
+- Unit Testing: JUnit
+- Integration Testing: REST Assured
+- JPA Test
+- Mock MVC
+- @SpringBootTest annotation
+- @MockBean Annotation

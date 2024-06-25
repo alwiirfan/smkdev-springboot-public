@@ -1,0 +1,17 @@
+SBM04 - Spring Core
+
+Objectiveness
+- Terminology
+- Architecture
+- Advantages of Spring
+- Configuration
+- Dependency Injection
+- Spring IOC
+- Spring AOP
+- Spring MVC
+- Annotations
+- Spring Bean Scope
+- Spring Boot Starters
+- Autoconfiguration
+- Actuators
+- Embedded Server
